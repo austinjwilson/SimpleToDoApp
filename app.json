@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "developers-zone",
+    "slug": "developers-zone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0fe1e138-6b72-46fe-8175-1cf14e68cad8"
+      }
+    }
+  },
+  "name": "developers-zone"
+}
